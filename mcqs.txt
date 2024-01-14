@@ -1,0 +1,351 @@
+Programming Fundamentals:
+Which of the following is NOT a fundamental programming concept?
+Input
+Output
+Encapsulation
+Looping
+Answer: Encapsulation
+Which of the following data types cannot be used to store non-numeric values?
+Integer
+Float
+String
+Boolean
+Answer: Integer
+Which of the following operators is used to perform exponentiation in Python?
+**
+^
+//
+%
+Answer: **
+Which of the following data structures is used to store elements in a specific order?
+Set
+List
+Tuple
+Dictionary
+Answer: List
+Which of the following is used to comment out a single line of code in Python?
+//
+/
+'''
+#
+Answer: #
+NEXT
+Object Oriented Programming:
+Which of the following concepts is NOT a fundamental concept of object-oriented programming?
+Object
+Class
+Function
+Encapsulation
+Answer: Function
+Which of the following concepts is used to describe the behavior of an object?
+Class
+Method
+Attribute
+Object
+Answer: Method
+Which of the following keywords is used to define a subclass in Python?
+extends
+class
+inherit
+sub
+Answer: class
+Which of the following concepts is used to enforce data hiding in object-oriented programming?
+Abstraction
+Encapsulation
+Inheritance
+Polymorphism
+Answer: Encapsulation
+Which of the following is a built-in function in Python used to create an object of a class?
+new()
+create()
+init()
+make()
+Answer: init()
+NEXT
+Introduction To Computing
+Which of the following is NOT an example of a high-level programming language?
+C++
+Python
+Assembly
+Java
+Answer: Assembly
+Which of the following is a fundamental data type in most programming languages?
+String
+Array
+Structure
+Integer
+Answer: Integer
+Which of the following statements best describes the purpose of an operating system?
+It manages computer hardware resources.
+It develops software applications.
+It designs computer networks.
+It creates user interfaces.
+Answer: It manages computer hardware resources.
+Which term refers to the process of finding and fixing errors or bugs in a program?
+Debugging
+Compiling
+Testing
+Documenting
+Answer: Debugging
+Which of the following is an example of a secondary storage device?
+RAM
+SSD
+CPU
+Cache
+Answer: SSD
+NEXT
+Data Structures:
+Which of the following data structures is used to implement a Last-In-First-Out (LIFO) stack?
+Queue
+Set
+Stack
+Dictionary
+Answer: Stack
+Which of the following data structures is used to implement a First-In-First-Out (FIFO) queue?
+Stack
+List
+Set
+Queue
+Answer: Queue
+Which of the following data structures is used to represent hierarchical relationships?
+Tree
+Graph
+Set
+Stack
+Answer: Tree
+Which of the following operations is NOT supported by a stack?
+Push
+Pop
+Peek
+Search
+Answer: Search
+Which of the following operations is NOT supported by a queue?
+Enqueue
+Dequeue
+Peek
+Search
+Answer: Search
+NEXT
+Analysis of Algorithms:
+Which of the following algorithms is used to sort an array in ascending order?
+Bubble Sort
+Merge Sort
+Quick Sort
+Heap Sort
+Answer: Bubble Sort
+Which of the following algorithms is used to find the shortest path between two nodes in a graph?
+Dijkstra's Algorithm
+Bellman-Ford Algorithm
+Kruskal's Algorithm
+Prim's Algorithm
+Answer: Dijkstra's Algorithm
+Which of the following algorithms is used to find the maximum flow in a flow network?
+Ford-Fulkerson Algorithm
+Bellman-Ford Algorithm
+Kruskal's Algorithm
+Prim's Algorithm
+Answer: Ford-Fulkerson Algorithm
+Which of the following algorithms is used to find the median of an unsorted array?
+Bubble Sort
+Selection Sort
+Insertion Sort
+Quick Sort
+Answer: Quick Sort
+Which of the following algorithms is used to find the maximum subarray sum in an array?
+Bubble Sort
+Selection Sort
+Insertion Sort
+Kadane's Algorithm
+Answer: Kadane's Algorithm
+NEXT
+Software Requirements Engineering:
+Which of the following is NOT a phase in the software requirements engineering process?
+Requirements Elicitation
+Requirements Analysis
+Requirements Design
+Requirements Validation
+Answer: Requirements Design
+Which of the following techniques is used to represent a system's requirements as a diagram?
+Data Flow Diagrams
+Entity-Relationship Diagrams
+Use Case Diagrams
+Sequence Diagrams
+Answer: Use Case Diagrams
+Which of the following types of requirements describes how a system should behave under certain conditions?
+Functional Requirements
+Non-Functional Requirements
+User Requirements
+System Requirements
+Answer: Functional Requirements
+Which of the following types of requirements describes the qualities that a system should possess?
+Functional Requirements
+Non-Functional Requirements
+User Requirements
+System Requirements
+Answer: Non-Functional Requirements
+Which of the following is a technique used to verify that the requirements are complete, consistent, and unambiguous?
+Walkthrough
+Inspection
+Traceability Matrix
+Requirements Review
+Answer: Requirements Review
+NEXT
+Research Methodology
+Which of the following is NOT a characteristic of qualitative research?
+Focuses on understanding and interpretation.
+Utilizes statistical analysis for data interpretation.
+Emphasizes subjective experiences.
+Involves data collection through interviews and observations.
+Answer: Utilizes statistical analysis for data interpretation.
+Which of the following sampling techniques is based on selecting individuals who are readily available and willing to participate?
+Random sampling
+Cluster sampling
+Convenience sampling
+Stratified sampling
+Answer: Convenience sampling
+Which type of research design involves studying a group of individuals over an extended period to collect data at multiple time points?
+Cross-sectional study
+Longitudinal study
+Experimental study
+Case study
+Answer: Longitudinal study
+Which of the following ethical principles requires informed consent from research participants?
+Confidentiality
+Anonymity
+Privacy
+Voluntary participation
+Answer: Voluntary participation
+Which of the following is an example of a primary source of data in research?
+Textbook
+Journal article
+Survey report
+Interview transcript
+Answer: Interview transcript
+NEXT
+Big Data Analytics:
+Which of the following types of data is typically too large to be processed by traditional data processing techniques?
+Structured Data
+Semi-Structured Data
+Unstructured Data
+Relational Data
+Answer: Unstructured Data
+Which of the following is NOT one of the four V's of big data?
+Velocity
+Volume
+Variety
+Veracity
+Answer: Value
+Which of the following is a distributed computing framework used for big data processing?
+Hadoop
+MySQL
+Oracle
+PostgreSQL
+Answer: Hadoop
+Which of the following is a programming language commonly used for big data analytics?
+C++
+Java
+Python
+Ruby
+Answer: Python
+Which of the following is a technique used to analyze large datasets by dividing them into smaller, more manageable chunks?
+Clustering
+Sampling
+Partitioning
+Regression
+Answer: Partitioning
+NEXT
+Artificial Intelligence:
+Which of the following is a subfield of artificial intelligence that involves training machines to recognize patterns in data?
+Natural Language Processing
+Computer Vision
+Machine Learning
+Robotics
+Answer: Machine Learning
+Which of the following is a technique used in machine learning to classify data into predefined categories?
+Clustering
+Regression
+Decision Trees
+Support Vector Machines
+Answer: Decision Trees
+Which of the following is a type of neural network that is commonly used for image recognition?
+Convolutional Neural Network (CNN)
+Recurrent Neural Network (RNN)
+Deep Belief Network (DBN)
+Self-Organizing Map (SOM)
+Answer: Convolutional Neural Network (CNN)
+Which of the following is a technique used to generate human-like responses in chatbots?
+Natural Language Processing
+Reinforcement Learning
+Deep Learning
+Rule-Based Systems
+Answer: Natural Language Processing
+Which of the following is a technique used to generate new content (e.g., text, images) using a trained machine learning model?
+Clustering
+Regression
+Generative Adversarial Networks (GANs)
+Support Vector Machines
+Answer: Generative Adversarial Networks (GANs)
+NEXT
+Deep Learning:
+Which of the following is a type of neural network that is commonly used for natural language processing tasks?
+Convolutional Neural Network (CNN)
+Recurrent Neural Network (RNN)
+Deep Belief Network (DBN)
+Self-Organizing Map (SOM)
+Answer: Recurrent Neural Network (RNN)
+Which of the following is a technique used in deep learning to reduce the number of parameters in a neural network?
+Dropout
+Batch Normalization
+Gradient Descent
+Stochastic Pooling
+Answer: Dropout
+Which of the following is a technique used in deep learning to prevent overfitting?
+L1 Regularization
+L2 Regularization
+Elastic Net Regularization
+Ridge Regression
+Answer: L2 Regularization
+Which of the following is a technique used in deep learning to learn feature representations from unlabeled data?
+Transfer Learning
+Autoencoders
+Adversarial Training
+Gradient Boosting
+Answer: Autoencoders
+What is the activation function commonly used in convolutional neural networks?
+Sigmoid function
+ReLU function
+Tanh function
+Softmax function
+Answer: ReLU function
+NEXT
+Digital Image Processing:
+Which of the following image formats uses lossy compression?
+JPEG
+PNG
+GIF
+BMP
+Answer: JPEG
+What is the main purpose of thresholding in digital image processing?
+To convert a grayscale image to a binary image
+To remove noise from an image
+To increase the contrast of an image
+To smooth an image
+Answer: To convert a grayscale image to a binary image
+Which of the following is a commonly used edge detection operator?
+Sobel operator
+Gaussian operator
+Median filter
+Laplacian operator
+Answer: Sobel operator
+What is the difference between JPEG and PNG image formats?
+JPEG uses lossy compression, while PNG uses lossless compression
+JPEG supports transparency, while PNG does not
+JPEG is more suitable for images with text, while PNG is more suitable for photographs
+JPEG produces smaller file sizes compared to PNG
+Answer: JPEG uses lossy compression, while PNG uses lossless compression
+What is histogram equalization in digital image processing?
+A technique used to enhance the contrast of an image by adjusting the distribution of pixel values
+A technique used to remove noise from an image by smoothing out the pixel values
+A technique used to convert a color image to a grayscale image
+A technique used to compress an image by reducing the number of pixels
+Answer: A technique used to enhance the contrast of an image by adjusting the distribution of pixel values
