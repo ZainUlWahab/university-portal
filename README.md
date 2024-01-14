@@ -101,7 +101,7 @@ If you're interested in contributing to Uni Portal, please follow these guidelin
 Thank you for considering contributing to Uni Portal! I appreciate your help in making this project better for everyone.
 
 ## License
-Uni Portal is released under the [MIT License](#license).
+Uni Portal is released under the [MIT License](#LICENSE).
 
 ## Contact
 If you have any questions, feedback, or just want to get in touch, feel free to reach out via email:
