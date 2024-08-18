@@ -65,9 +65,9 @@ To install these libraries on a Debian-based Linux system, you can use the follo
 ### Installation
 ```bash
 git clone https://github.com/ZainUlWahab/uni-portal
-cd your-project
+cd uni-portal
 make
-./your-executable
+./script.sh
 ```
 ## Running the project on windows
 1. **First of all, its going to give you an error on the function "getpass("Password :)".**
