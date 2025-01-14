@@ -1,4 +1,4 @@
-# Uni Portal
+# University Portal
 
 A Comprehensive University Portal for Effortless Quiz Creation by Teachers and Seamless Attempts by Students.
 
